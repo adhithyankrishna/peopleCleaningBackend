@@ -1,0 +1,15 @@
+{
+  "name": "peoplecleaning",
+  "version": "1.0.0",
+  "description": "Crm backend service for people cleaning services and facility management ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Adithyan m",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
